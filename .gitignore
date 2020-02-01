@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#mga file na d i-upload
+.idea
+/database/
+file_na_d_i-upload.txt
